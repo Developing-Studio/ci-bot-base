@@ -1,0 +1,17 @@
+{
+  "POSTGRES_INFO": {
+    "user": "Postgres Username",
+    "password": "Postgres Password",
+    "database": "Postgres DB Name",
+    "host": "Postgres IP"
+  },
+  "TOKEN": "Discord Bot Token Here",
+  "BOT_OWNERS": ["Your ID here (Must be an integer)"],
+  "BOT_DESCRIPTION": "Bot description goes here.",
+  "HOT_RELOAD_EXTS": ["cogs.Help", "cogs.Dev"],
+  "COLOURS": {
+    "MAIN": 3092790,
+    "WARNING": 13396494,
+    "ERROR": 11340298
+  }
+}

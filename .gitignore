@@ -1,0 +1,5 @@
+format.bat
+config.json
+__pycache__/
+utils/__pycache__/
+cogs/__pycache__/
